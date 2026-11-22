@@ -1,0 +1,6 @@
+{
+  "name": "Rainfall Prediction System Using Machine Learning",
+  "description": "Intelligent weather analysis and rainfall forecasting dashboard powered by a Random Forest Classifier, meteorological CSV preprocessing, interactive Chart.js analytics, and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
